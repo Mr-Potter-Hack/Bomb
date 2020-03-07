@@ -104,6 +104,6 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: mrpotter3514@gmail.com<br>
+                 Mail: mrpotter3514@gmail.com
 ```
 
